@@ -1,0 +1,15 @@
+{
+    "name": "nishibi/composer_quest",
+    "authors": [
+        {
+            "name": "Nishibi",
+            "email": "justine.ginestou@gmail.com"
+        }
+    ],
+    "require": {
+        "ehime/hello-world": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
